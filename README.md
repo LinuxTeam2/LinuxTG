@@ -51,7 +51,7 @@ Create a realm using the `!createrealm` command.
 
 #Sudo Users :
 
-#([SoLiD](https://telegram.me/Sudo_linuxtg))
+#([Kia](https://telegram.me/Sudo_linuxtg))
 
 #([Mrpuker](https://telegram.me/Mutepoker))
 
