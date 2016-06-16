@@ -90,3 +90,5 @@ return {
    },
    run = run
 }
+--@Sudo_LinuxtTG
+--@Linux_TM
